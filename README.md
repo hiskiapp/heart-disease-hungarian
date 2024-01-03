@@ -4,7 +4,6 @@ This project is a simple web app to classify heart disease using the Hungarian H
 ## Files
 - `main.py`: This is the main script that runs the Streamlit app for heart disease classification.
 - `model/knn.joblib`: This is the trained K-Nearest Neighbors model used for prediction.
-- `model/knn.pkl`: This is the pickled version of the trained model.
 - `data/template.csv`: This is a template CSV file for batch prediction.
 - `requirements.txt`: This file lists all the Python dependencies required for this project.
 
