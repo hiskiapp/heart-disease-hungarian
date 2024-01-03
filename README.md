@@ -1,17 +1,6 @@
 # Hungarian Heart Disease Classification
 This project is a simple web app to classify heart disease using the Hungarian Heart Disease dataset.
 
-## Project Structure
-\```
-.
-├── data
-│   └── template.csv
-├── main.py
-├── model
-│   ├── knn.joblib
-└── requirements.txt
-\```
-
 ## Files
 - `main.py`: This is the main script that runs the Streamlit app for heart disease classification.
 - `model/knn.joblib`: This is the trained K-Nearest Neighbors model used for prediction.
