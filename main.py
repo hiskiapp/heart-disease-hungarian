@@ -11,7 +11,7 @@ st.set_page_config(page_title="Hungarian Heart Disease Classification", page_ico
 
 st.title("Hungarian Heart Disease Classification")
 st.markdown("This is a simple web app to classify heart disease using the Hungarian Heart Disease dataset.")
-st.markdown("[GitHub Repository](https://github.com/hiskiapp/hungarian-heart-disease)  •  [Deepnote Notebook](https://deepnote.com/@hiskia/Heart-Disease-BK-4e521e1d-c937-48e4-b4ad-584bf559f6c4)", unsafe_allow_html=True)
+st.markdown("[GitHub Repository](https://github.com/hiskiapp/hungarian-heart-disease)  •  [Deepnote Notebook](https://deepnote.com/@hiskia/Hungarian-Heart-Disease-Classification-4e521e1d-c937-48e4-b4ad-584bf559f6c4)", unsafe_allow_html=True)
 tab1, tab2 = st.tabs(["Single Prediction", "Batch Prediction"])
 
 with tab1:
